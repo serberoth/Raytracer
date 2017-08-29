@@ -1,0 +1,9 @@
+Ray Tracer
+
+A simple ray tracer written in C++ written some time ago
+circa 2003/2004 so the C++ is already crusty as compared
+to C++11 or anything modernized.
+
+It supports simple objects, materials, stochastic ray
+casting, reflection, and refraction.
+
