@@ -1,0 +1,7 @@
+.DS_Store
+tracer
+tracer.dSYM
+*.swp
+*~
+*.o
+
